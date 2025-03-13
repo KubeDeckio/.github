@@ -35,7 +35,7 @@ KubeDeckio delivers a suite of PowerShell-based tools that make managing Kuberne
 
 - **KubeTidy** 🧹  
   Clears out unused or outdated entries from your kubeconfig file so you can focus on what matters.  
-  [Docs](https://kubeyidy.io)
+  [Docs](https://kubetidy.io)
 
 - **KubeSnapIt** 📸  
   Captures snapshots, handles restorations, and compares your Kubernetes resources with flair.  
